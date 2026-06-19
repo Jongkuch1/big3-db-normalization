@@ -1,0 +1,16 @@
+ProjectID,WorkerName,SupplierName,SupplierCity
+P001,Mike Ross,BuildPro Supplies,Boston
+P001,Rachel Zane,BuildPro Supplies,Boston
+P001,Harvey Specter,SteelWorks Inc,Chicago
+P002,Mike Ross,Oceanic Materials,Miami
+P002,Tom Hardy,Oceanic Materials,Miami
+P003,Rachel Zane,BuildPro Supplies,Boston
+P003,Tom Hardy,BuildPro Supplies,Boston
+P004,Mike Ross,SteelWorks Inc,Chicago
+P004,Louis Litt,Global Glass Co,Seattle
+P005,Harvey Specter,Pacific Materials,San Diego
+P005,Rachel Zane,Pacific Materials,San Diego
+P006,Tom Hardy,Southern Concrete,Atlanta
+P006,Mike Ross,Southern Concrete,Atlanta
+P007,Louis Litt,SteelWorks Inc,Chicago
+P007,Harvey Specter,Oceanic Materials,Miami
